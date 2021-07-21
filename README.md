@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lamtuanamc
-- 👀 I’m interested in finance, personal development and lines of ```code```
+- 👀 I’m interested in personal development and lines of ```code```
 - 🌱 I’m currently learning Flutter and Elixir
 
 <!---
