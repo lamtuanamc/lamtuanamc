@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and Elixir
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamtuanamc&show_icons=true" alt="lamtuanamc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamtuanamc&show_icons=true&theme=radical&count_private=true" />
 
 <!---
 lamtuanamc/lamtuanamc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
