@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lamtuanamc
 - 👀 I’m interested in personal development and lines of ```code```
-- 🌱 I’m currently learning Flutter and Elixir
+- 🌱 I’m currently learning Dart, Flutter and Elixir
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamtuanamc&show_icons=true&theme=radical&count_private=true" />
